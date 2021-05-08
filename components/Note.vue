@@ -94,4 +94,9 @@ export default {
     /* padding: 25px 10px; */
     border:none;
   }
+  #textarea-large:focus, .title:focus{
+    border-color: #ccc;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
 </style>
